@@ -1,0 +1,2 @@
+# glpi
+Install GLPI automático 
